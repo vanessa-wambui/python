@@ -28,4 +28,17 @@ number = 201
 while number >= 150:
     print(number)
     number = number - 3
-    # python function both with and without parametere
+    # python function both with and without parameteres
+    #a function-a block of reusable code
+    # parameter - are variables you put inside the function so it can receive values when it's called.
+    # the syntax:
+    """
+    def function_name(parameter 1, parameter 2)
+    """
+def greet(name):
+    print("Hello",name)
+
+greet("Vanessa")    
+# a python function without parameters
+
+    

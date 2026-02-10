@@ -3,3 +3,8 @@ print("Hello Bobo")
 # this is a comment
 """this is another comment"""
 '''This is another docstring'''
+
+num1 = 12
+num1 = 20
+
+print(num1)
