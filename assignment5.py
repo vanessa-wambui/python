@@ -53,6 +53,8 @@ def sum_of_numbers(n):
         sum+=i
         print("The sum of numbers from 1 to", n,"is:", sum )
 
+    
+
 
 
 
